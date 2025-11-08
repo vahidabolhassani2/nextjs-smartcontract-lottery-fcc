@@ -1,0 +1,7 @@
+yarn config set nodeLinker node-modules
+
+connect to wallet:
+------------------
+yarn add moralis
+yarn add react-moralis
+
